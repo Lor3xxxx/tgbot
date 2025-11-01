@@ -1,0 +1,16 @@
+2025-10-28 22:17:46,762 | INFO | Start polling
+2025-10-28 22:17:47,084 | INFO | Run polling for bot @Lor3xvapebot id=8485466022 - 'Lor3xvape'
+2025-10-28 22:17:49,708 | INFO | 8172693975 /start
+2025-10-28 22:17:49,708 | INFO | Update id=170319250 is handled. Duration 391 ms by bot id=8485466022
+2025-10-28 22:17:50,911 | INFO | Update id=170319251 is handled. Duration 140 ms by bot id=8485466022
+2025-10-28 22:17:51,961 | INFO | Update id=170319252 is handled. Duration 155 ms by bot id=8485466022
+2025-10-28 22:17:54,281 | INFO | Update id=170319253 is handled. Duration 405 ms by bot id=8485466022
+2025-10-28 22:17:59,192 | INFO | Update id=170319254 is handled. Duration 467 ms by bot id=8485466022
+2025-10-28 22:18:04,388 | INFO | Update id=170319255 is handled. Duration 452 ms by bot id=8485466022
+2025-10-28 22:18:07,797 | INFO | Update id=170319256 is handled. Duration 157 ms by bot id=8485466022
+2025-10-28 22:18:09,099 | INFO | Update id=170319257 is handled. Duration 203 ms by bot id=8485466022
+2025-10-28 22:18:12,187 | INFO | Update id=170319258 is handled. Duration 171 ms by bot id=8485466022
+2025-10-28 22:20:00,082 | INFO | Polling stopped
+2025-10-28 22:20:00,084 | ERROR | Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-10-28 22:20:00,085 | WARNING | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8485466022)
+2025-10-28 22:20:00,341 | INFO | Polling stopped for bot @Lor3xvapebot id=8485466022 - 'Lor3xvape'

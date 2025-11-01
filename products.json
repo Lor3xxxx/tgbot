@@ -1,0 +1,291 @@
+{
+    "Одноразки": [
+        {
+            "name": "Апельсин личи",
+            "price": 1250,
+            "available": true,
+            "brand": "Waka",
+            "capacity": 6000
+        },
+        {
+            "name": "МангоДыняАлоэ",
+            "price": 1250,
+            "available": true,
+            "brand": "Waka",
+            "capacity": 6000
+        },
+        {
+            "name": "Персик Ягоды",
+            "price": 2000,
+            "available": true,
+            "brand": "Masking",
+            "capacity": 20000
+        },
+        {
+            "name": "Клубника Банан",
+            "price": 2000,
+            "available": true,
+            "brand": "Masking",
+            "capacity": 20000
+        },
+        {
+            "name": "Зеленое яблоко",
+            "price": 2000,
+            "available": true,
+            "brand": "Masking",
+            "capacity": 20000
+        },
+        {
+            "name": "Черника Мята",
+            "price": 2000,
+            "available": true,
+            "brand": "Masking",
+            "capacity": 20000
+        },
+        {
+            "name": "Персик Манго Арбуз",
+            "price": 2200,
+            "available": true,
+            "brand": "Elfbar",
+            "capacity": 23000
+        },
+        {
+            "name": "Леденец Кислая Вишня",
+            "price": 2500,
+            "available": true,
+            "brand": "Elfbar",
+            "capacity": 30000
+        },
+        {
+            "name": "Грушевый Лимонад",
+            "price": 2500,
+            "available": true,
+            "brand": "Elfbar",
+            "capacity": 30000
+        },
+        {
+            "name": "Кислая Ежевика Лед",
+            "price": 2500,
+            "available": true,
+            "brand": "Elfbar",
+            "capacity": 30000
+        },
+        {
+            "name": "Киви Питайя",
+            "price": 2200,
+            "available": true,
+            "brand": "Elfbar",
+            "capacity": 23000
+        },
+        {
+            "name": "Клубника Арбуз",
+            "price": 2400,
+            "available": true,
+            "brand": "Waka",
+            "capacity": 20000
+        },
+        {
+            "name": "Энергетик",
+            "price": 2400,
+            "available": true,
+            "brand": "Waka",
+            "capacity": 20000
+        },
+        {
+            "name": "Киви Гуава",
+            "price": 2400,
+            "available": true,
+            "brand": "Waka",
+            "capacity": 20000
+        },
+        {
+            "name": "Клубника Виноград",
+            "price": 2400,
+            "available": true,
+            "brand": "Waka",
+            "capacity": 20000
+        },
+        {
+            "name": "Клубника Киви",
+            "price": 2400,
+            "available": true,
+            "brand": "Waka",
+            "capacity": 20000
+        },
+        {
+            "name": "Клубника Киви",
+            "price": 2200,
+            "available": true,
+            "brand": "Waka",
+            "capacity": 15000
+        },
+        {
+            "name": "Сакура Виноград",
+            "price": 2200,
+            "available": true,
+            "brand": "Waka",
+            "capacity": 15000
+        },
+        {
+            "name": "Лайм Мята",
+            "price": 2200,
+            "available": true,
+            "brand": "Waka",
+            "capacity": 15000
+        },
+        {
+            "name": "Вишня",
+            "price": 2200,
+            "available": true,
+            "brand": "Waka",
+            "capacity": 15000
+        },
+        {
+            "name": "Арбуз",
+            "price": 2200,
+            "available": true,
+            "brand": "Waka",
+            "capacity": 15000
+        },
+        {
+            "name": "Клубника Лед",
+            "price": 2000,
+            "available": true,
+            "brand": "Masking",
+            "capacity": 20000
+        }
+    ],
+    "Снюс": [
+        {
+            "name": "Forest Mint",
+            "price": 825,
+            "available": false,
+            "strength": "75",
+            "brand": "ICEBERG"
+        },
+        {
+            "name": "Апельсин",
+            "price": 800,
+            "available": false,
+            "strength": "45",
+            "brand": "CORVUS"
+        },
+        {
+            "name": "Черная смородина",
+            "price": 825,
+            "available": false,
+            "strength": "75",
+            "brand": "ICEBERG"
+        },
+        {
+            "name": "Клубника Мята",
+            "price": 800,
+            "available": true,
+            "strength": "100",
+            "brand": "HUSKY"
+        },
+        {
+            "name": "Голубика Мята",
+            "price": 800,
+            "available": true,
+            "strength": "100",
+            "brand": "HUSKY"
+        },
+        {
+            "name": "Вирус Мохито",
+            "price": 825,
+            "available": true,
+            "strength": "200",
+            "brand": "KASTA"
+        },
+        {
+            "name": "Сливочно - Клубничный",
+            "price": 825,
+            "available": true,
+            "strength": "200",
+            "brand": "KASTA"
+        },
+        {
+            "name": "Штамп Баблгама Манго",
+            "price": 825,
+            "available": true,
+            "strength": "200",
+            "brand": "KASTA"
+        },
+        {
+            "name": "Имбирная Лихорадка",
+            "price": 825,
+            "available": true,
+            "strength": "200",
+            "brand": "KASTA"
+        },
+        {
+            "name": "Фисташковый спутник",
+            "price": 825,
+            "available": true,
+            "strength": "200",
+            "brand": "KASTA"
+        }
+    ],
+    "Картриджи": [
+        {
+            "name": "Vaporesso 0.6",
+            "price": 450,
+            "available": false
+        }
+    ],
+    "Жидкости": [
+        {
+            "name": "Sng Скитлс",
+            "price": 750,
+            "available": true
+        },
+        {
+            "name": "Zong Клюквенная сода",
+            "price": 750,
+            "available": true
+        },
+        {
+            "name": "Zong Ягодный Лимонад",
+            "price": 750,
+            "available": true
+        },
+        {
+            "name": "RickMorty ГранатМармелад",
+            "price": 750,
+            "available": true
+        },
+        {
+            "name": "Sng Маракуйя",
+            "price": 750,
+            "available": true
+        },
+        {
+            "name": "Sng Фейхоа",
+            "price": 750,
+            "available": true
+        },
+        {
+            "name": "RickMorty Виноград Фанта",
+            "price": 750,
+            "available": true
+        }
+    ],
+    "Рандом - Паки": [
+        {
+            "name": "Waka 20000 + 2 Шайбы",
+            "price": 3999,
+            "available": true
+        },
+        {
+            "name": "Waka 6000 + Шайба",
+            "price": 2000,
+            "available": true
+        },
+        {
+            "name": "3 Шайбы",
+            "price": 2350,
+            "available": true
+        }
+    ]
+}
